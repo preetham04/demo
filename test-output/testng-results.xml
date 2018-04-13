@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37786" started-at="2018-04-10T20:50:45Z" finished-at="2018-04-10T20:51:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37786" started-at="2018-04-10T20:50:45Z" finished-at="2018-04-10T20:51:23Z">
+      <class name="org.facebook.tests.TestLogin">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:org.facebook.tests.TestLogin@4445629]" name="invokeBrowser" duration-ms="26915" started-at="2018-04-10T13:50:45Z" finished-at="2018-04-10T13:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:org.facebook.tests.TestLogin@4445629]" name="verifyLoginPage" duration-ms="9819" started-at="2018-04-10T13:51:13Z" finished-at="2018-04-10T13:51:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+      </class> <!-- org.facebook.tests.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
